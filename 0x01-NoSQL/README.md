@@ -1,3 +1,3 @@
 // List databases
 
-show dbs
+0x01-NoSQL
