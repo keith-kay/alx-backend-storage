@@ -1,0 +1,3 @@
+// List databases
+
+show dbs
